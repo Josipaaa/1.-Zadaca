@@ -1,0 +1,5 @@
+D:\Projects\DomacaZadaca1\DomacaZadaca1\bin\Debug\DomacaZadaca1.exe.config
+D:\Projects\DomacaZadaca1\DomacaZadaca1\bin\Debug\DomacaZadaca1.exe
+D:\Projects\DomacaZadaca1\DomacaZadaca1\bin\Debug\DomacaZadaca1.pdb
+D:\Projects\DomacaZadaca1\DomacaZadaca1\obj\Debug\DomacaZadaca1.exe
+D:\Projects\DomacaZadaca1\DomacaZadaca1\obj\Debug\DomacaZadaca1.pdb
